@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tasukete</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save">Save</string>
+    <string name="add_a_note">Add a note…</string>
+    <string name="cancel">Cancel</string>
+    <string name="warning">Warning!</string>
+    <string name="warning_message_delete_all_done_items">Are you sure you want to delete all the checked items in this list? This action is permanent.</string>
+    <string name="warning_message_delete_item_list">This will delete the entire list permanently, including all the items inside of it.</string>
+    <string name="warning_message_delete_task">Are you sure you wanted to delete this item? This is a permanent action.</string>
+    <string name="task_title">Task Title</string>
+    <string name="edit">Edit</string>
+    <string name="list_title">List Title</string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/adsediego/">Linkedin Profile</a></string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnDeleteDoneItems"
+        android:icon="@drawable/ic_round_delete_sweep_24dp"
+        android:title="Delete all done items"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btnEditListTitle"
+        android:title="@string/edit"
+        android:icon="@drawable/ic_round_edit_24dp"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/btnDeleteList"
+        android:title="Delete"
+        app:showAsAction="never" />
+</menu>
