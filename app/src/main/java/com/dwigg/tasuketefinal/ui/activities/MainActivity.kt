@@ -2,6 +2,7 @@ package com.dwigg.tasuketefinal.ui.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import com.dwigg.tasuketefinal.R
 import com.dwigg.tasuketefinal.ui.fragments.HomeFragment
 import com.dwigg.tasuketefinal.ui.fragments.NavigationFragment
@@ -22,6 +23,7 @@ class MainActivity : AppCompatActivity() {
     private fun init() {
         initializeNavigationListener()
         initializeHomeFragment()
+        bottomAppBar.overflowIcon = ContextCompat.getDrawable(this, R.drawable.ic_round_more_vert_24dp)
     }
 
     private fun initializeNavigationListener() {
