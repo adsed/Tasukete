@@ -1,8 +1,9 @@
 # Tasukete
 A simple task list application for Android.
 
+![Icon](https://i.imgur.com/O2CiHQh.png)
 
-![Home Screen](https://i.imgur.com/dZiEale.png?1) | ![Task List Screen](https://i.imgur.com/zbKAT3q.png?1)
+![Home Screen](https://i.imgur.com/dZiEale.png?1) ![Task List Screen](https://i.imgur.com/zbKAT3q.png?1)
 
 ## Test it!
 [Download for Android 5.1](https://www.dropbox.com/s/zlyyjaw6oyvvtjz/Tasukete%20Alpha.apk?dl=0) <br>
